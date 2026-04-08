@@ -1,7 +1,9 @@
-# 👾 Giovana Boni
-**`Desenvolvedora em desenvolvimento´**
+Olá, eu sou a Giovana Boni! 👋
+Estudante de Análise e Desenvolvimento de Sistemas | UNICEP
 
-Oie, pode me chamar de Boni! Tenho 27 anos e estou cursando Análise e desenvolvimento de sistemas pela UNICEP em São Carlos. Trabalho na LATAM com foco em melhoria contínua, curiosa por tecnologia, otimização de processos e criatividade. Sigo criando, testando e refatorando - codigos, ideias e versoes de mim mesma. 
+Atualmente mergulhada no universo da tecnologia, explorando as bases da computação e descobrindo novos caminhos. Divido meu tempo entre as aulas de ADS na UNICEP e estudos práticos na Alura, onde venho desenvolvendo minha lógica com Python.
+
+Acredito que a tecnologia é uma ferramenta incrível para resolver problemas, e sigo testando, aprendendo e refatorando — códigos, ideias e versões de mim mesma.
 
  <a href="https://github.com/bonigiovana?tab=repositories&sort=stargazers">
         <img 
