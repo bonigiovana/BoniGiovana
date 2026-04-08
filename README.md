@@ -25,7 +25,7 @@ Acredito que a tecnologia é uma ferramenta incrível para resolver problemas, e
 ---
 
 <p align="center">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/bonigiovana/BoniGiovana/output/github-contribution-grid-snake.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/bonigiovana/BoniGiovana/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
