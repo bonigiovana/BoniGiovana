@@ -3,7 +3,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | UNICEP
 
 Atualmente mergulhada no universo da tecnologia, explorando as bases da computação e descobrindo novos caminhos. Divido meu tempo entre as aulas de ADS na UNICEP e estudos práticos na Alura, onde venho desenvolvendo minha lógica com Python.
 
-Acredito que a tecnologia é uma ferramenta incrível para resolver problemas, e sigo testando, aprendendo e refatorando — códigos, ideias e versões de mim mesma.
+Para mim, a tecnologia é o espaço onde a lógica encontra a criatividade, e é ali que sigo testando, aprendendo e refatorando — códigos, ideias e versões de mim mesma.
 
 <p>
     <a href="https://github.com/bonigiovana?tab=repositories&sort=stargazers">
