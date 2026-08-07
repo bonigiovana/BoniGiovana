@@ -15,13 +15,11 @@ Possuo bagagem em **otimização de processos operacionais, análise de dados e 
 
 ---
 
-### 📌 Projetos em Destaque
+### 🚀 Foco Atual de Estudos & Prática
 
-- 🌿 **[Sistema Automático de Irrigação de Hortaliças](https://github.com/bonigiovana/sistema-irrigacao)**  
-  *Sistema de automação com sensores IoT para monitoramento e irrigação inteligente em tempo real.*
-
-- ☕ **[Bootcamp Santander - Fullstack Java & Angular](https://github.com/bonigiovana/santander-bootcamp)**  
-  *Desafios de código focados em Orientação a Objetos, Spring Framework e domínio bancário.*
+- ☕ **Bootcamp Santander:** Aperfeiçoando desenvolvimento Fullstack com Java, Spring Boot, Angular e APIs no domínio bancário.
+- 🐍 **Desenvolvimento Backend:** Aprofundando estudos em Python, manipulação de dados e boas práticas de código.
+- 🌿 **Projetos Acadêmicos:** Aplicação de lógica de programação, banco de dados SQL e sistemas de automação.
 
 ---
 
@@ -29,11 +27,6 @@ Possuo bagagem em **otimização de processos operacionais, análise de dados e 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bonigiovana/BoniGiovana/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bonigiovana&show_icons=true&theme=shadow_green&include_all_commits=true&locale=pt-br" alt="Giovana Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonigiovana&theme=shadow_green&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Top Langs" />
 </p>
 
 ---
