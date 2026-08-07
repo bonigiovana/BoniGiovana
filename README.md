@@ -23,8 +23,6 @@ Possuo bagagem em **otimização de processos operacionais, análise de dados e 
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/bonigiovana/BoniGiovana/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
