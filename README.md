@@ -4,10 +4,11 @@
 
 Desenvolvedora **Full Stack** com foco em **Java, Spring Boot, Python, Angular e SQL**. Graduanda em Análise e Desenvolvimento de Sistemas (UNICEP) e participante ativa do **Bootcamp Santander (Fullstack Java & Angular - DIO)**.
 
-Possuo bagagem profissional em **otimização de processos operacionais, análise de dados e sistema SAP**, aplicando metodologias de melhoria contínua (Certificada Agente Bronze MANTRA na LATAM Airlines) para a resolução de problemas lógicos.
+Possuo bagagem profissional em **otimização de processos operacionais, análise de dados e sistema SAP**, aplicando metodologias de melhoria contínua (Certificada Agente Bronze MANTRA na LATAM Airlines) para a resolução de problemas lógicos. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-bonic)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonigiovana9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-211A2C?style=for-the-badge&logo=linkedin&logoColor=CBA6F7)](https://www.linkedin.com/in/giovana-bonic)
+[![Gmail](https://img.shields.io/badge/Gmail-211A2C?style=for-the-badge&logo=gmail&logoColor=CBA6F7)](mailto:bonigiovana9@gmail.com)
+
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -29,12 +30,11 @@ Possuo bagagem profissional em **otimização de processos operacionais, anális
 
 ---
 
-### 🚀 Foco Atual de Estudos & Prática
+### ✨ Foco Atual de Estudos & Prática
 
-- ☕ **Bootcamp Santander:** Aperfeiçoando desenvolvimento Fullstack com Java, Spring Boot, Angular e APIs no domínio bancário.
-- 🐍 **Desenvolvimento Backend:** Aprofundando estudos em Python, manipulação de dados e boas práticas de código.
-- 🌿 **Projetos Acadêmicos:** Aplicação de lógica de programação, banco de dados SQL e sistemas de automação.
-
+* **Bootcamp Santander (DIO):** Aperfeiçoando desenvolvimento Fullstack com Java, Spring Boot, Angular e APIs no domínio bancário.
+* **Formação Alura (Python Backend):** Aprofundando estudos na linguagem Python, manipulação de dados, criação de APIs RESTful e boas práticas de código.
+* **Projetos Acadêmicos (UNICEP):** Aplicação de lógica de programação, modelagem de banco de dados SQL e sistemas de automação.
 ---
 
 <p align="center">
