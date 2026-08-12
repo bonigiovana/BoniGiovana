@@ -1,9 +1,13 @@
 # Olá, eu sou a Giovana Boni! 👋
 
-Desenvolvedora focada em **Backend com Python**, **Java, Spring Framework, Angular e SQL**. Graduanda em Análise e Desenvolvimento de Sistemas (UNICEP) e participante ativa do **Bootcamp Santander (Fullstack Java & Angular - DIO)**.
+🎯 **Em busca de oportunidades como Estagiária ou Desenvolvedora Junior (Full Stack / Backend)**.
 
-Possuo bagagem em **otimização de processos operacionais, análise de dados e sistema SAP**, além de aplicar metodologias de melhoria contínua (Certificada Agente Bronze MANTRA na LATAM Airlines).
+Desenvolvedora **Full Stack** com foco em **Java, Spring Boot, Python, Angular e SQL**. Graduanda em Análise e Desenvolvimento de Sistemas (UNICEP) e participante ativa do **Bootcamp Santander (Fullstack Java & Angular - DIO)**.
 
+Possuo bagagem profissional em **otimização de processos operacionais, análise de dados e sistema SAP**, aplicando metodologias de melhoria contínua (Certificada Agente Bronze MANTRA na LATAM Airlines) para a resolução de problemas lógicos.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-bonic)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonigiovana9@gmail.com)
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
