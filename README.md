@@ -43,7 +43,3 @@ Possuo bagagem profissional em **otimização de processos operacionais, anális
 
 ---
 
-### 📫 Conecte-se comigo
-
-- 💼 **LinkedIn:** [linkedin.com/in/giovana-bonic](https://www.linkedin.com/in/giovana-bonic)
-- 📧 **E-mail:** bonigiovana9@gmail.com
