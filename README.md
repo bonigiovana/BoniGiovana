@@ -8,11 +8,18 @@ Possuo bagagem em **otimização de processos operacionais, análise de dados e 
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Python, JavaScript, Java, TypeScript, HTML5, CSS3, SQL
-- **Frameworks & APIs:** Spring Boot, APIs RESTful, Angular, Node.js
-- **Ferramentas:** Git, GitHub, VS Code, SAP
-- **Competências:** Melhoria Contínua (MANTRA), Engenharia de Software, Resolução de Problemas
-
+![Java](https://img.shields.io/badge/Java-211A2C?style=for-the-badge&logo=openjdk&logoColor=CBA6F7)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-211A2C?style=for-the-badge&logo=spring&logoColor=CBA6F7)
+![Python](https://img.shields.io/badge/Python-211A2C?style=for-the-badge&logo=python&logoColor=CBA6F7)
+![Angular](https://img.shields.io/badge/Angular-211A2C?style=for-the-badge&logo=angular&logoColor=CBA6F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-211A2C?style=for-the-badge&logo=typescript&logoColor=CBA6F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-211A2C?style=for-the-badge&logo=javascript&logoColor=CBA6F7)
+![HTML5](https://img.shields.io/badge/HTML5-211A2C?style=for-the-badge&logo=html5&logoColor=CBA6F7)
+![CSS3](https://img.shields.io/badge/CSS3-211A2C?style=for-the-badge&logo=css3&logoColor=CBA6F7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-211A2C?style=for-the-badge&logo=postgresql&logoColor=CBA6F7)
+![Git](https://img.shields.io/badge/Git-211A2C?style=for-the-badge&logo=git&logoColor=CBA6F7)
+![GitHub](https://img.shields.io/badge/GitHub-211A2C?style=for-the-badge&logo=github&logoColor=CBA6F7)
+![VS Code](https://img.shields.io/badge/VS_Code-211A2C?style=for-the-badge&logo=visualstudiocode&logoColor=CBA6F7)
 ---
 
 ### 🚀 Foco Atual de Estudos & Prática
