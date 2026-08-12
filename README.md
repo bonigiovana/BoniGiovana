@@ -20,6 +20,9 @@ Possuo bagagem em **otimização de processos operacionais, análise de dados e 
 ![Git](https://img.shields.io/badge/Git-211A2C?style=for-the-badge&logo=git&logoColor=CBA6F7)
 ![GitHub](https://img.shields.io/badge/GitHub-211A2C?style=for-the-badge&logo=github&logoColor=CBA6F7)
 ![VS Code](https://img.shields.io/badge/VS_Code-211A2C?style=for-the-badge&logo=visualstudiocode&logoColor=CBA6F7)
+![Arduino](https://img.shields.io/badge/Arduino-211A2C?style=for-the-badge&logo=arduino&logoColor=CBA6F7)
+![SAP](https://img.shields.io/badge/SAP-211A2C?style=for-the-badge&logo=sap&logoColor=CBA6F7)
+
 ---
 
 ### 🚀 Foco Atual de Estudos & Prática
