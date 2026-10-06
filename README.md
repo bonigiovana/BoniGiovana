@@ -6,8 +6,8 @@ Graduanda em Análise e Desenvolvimento de Sistemas pela UNICEP, desenvolvendo h
 
 📚 Formação Atual:
 
-🎓	ADS — UNICEP (em andamento)
-🏦	Bootcamp Santander | Java + Angular — DIO
+🎓	ADS — UNICEP (em andamento)<br>
+🏦	Bootcamp Santander | Java + Angular — DIO<br>
 🤖	Bootcamp Java AI Copilot — DIO × CI&T
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-211A2C?style=for-the-badge&logo=linkedin&logoColor=CBA6F7)](https://www.linkedin.com/in/giovana-bonic)
