@@ -1,6 +1,5 @@
 # Olá, eu sou a Giovana Boni! 👋
 
-Sobre mim
 
 Graduanda em Análise e Desenvolvimento de Sistemas pela UNICEP, desenvolvendo habilidades em programação e desenvolvimento de software.
 
@@ -19,7 +18,6 @@ Graduanda em Análise e Desenvolvimento de Sistemas pela UNICEP, desenvolvendo h
 
 ![Java](https://img.shields.io/badge/Java-211A2C?style=for-the-badge&logo=openjdk&logoColor=CBA6F7)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-211A2C?style=for-the-badge&logo=spring&logoColor=CBA6F7)
-![Python](https://img.shields.io/badge/Python-211A2C?style=for-the-badge&logo=python&logoColor=CBA6F7)
 ![Angular](https://img.shields.io/badge/Angular-211A2C?style=for-the-badge&logo=angular&logoColor=CBA6F7)
 ![TypeScript](https://img.shields.io/badge/TypeScript-211A2C?style=for-the-badge&logo=typescript&logoColor=CBA6F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-211A2C?style=for-the-badge&logo=javascript&logoColor=CBA6F7)
